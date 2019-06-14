@@ -1,0 +1,13 @@
+{
+  "theme": {
+    "slug": "mwg",
+    "name": "Medical Word Group",
+    "author": "Ammar Jabakji"
+  },
+  "dev": {
+    "browserSync": {
+      "proxyURL": "http://localhost/wp/",
+      "bypassPort": "8180"
+    }
+  }
+}
